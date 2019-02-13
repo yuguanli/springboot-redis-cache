@@ -27,8 +27,8 @@ import java.util.*;
  * @author: WangJie
  * @create: 2018-05-02 15:14
  **/
-@Configuration
-@EnableCaching
+//@Configuration
+//@EnableCaching
 public class RedisCacheConfig extends CachingConfigurerSupport {
 
 
